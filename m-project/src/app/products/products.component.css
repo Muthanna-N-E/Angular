@@ -1,0 +1,28 @@
+
+.prdt{
+    background-color: gray;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 50px;
+   padding-bottom: 500px;
+}
+.card {
+    background-color: rgb(26, 24, 24);
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20px 20px 50px 20px;
+   ;
+
+}
+.btn{
+    text-decoration: none;
+    background-color: gray;
+    padding: 8px;
+    border-radius: 5px;
+    color: white;
+}
+.bynw {
+    margin-top: 20px;
+    
+    
+}
